@@ -1,0 +1,14 @@
+
+ul {
+    margin-top: 10px;
+    vertical-align: bottom;
+}
+li {
+    display: inline-block;
+    vertical-align: bottom;
+    margin-left: 5px;
+    width: 15px;
+    background-color: #E21519;
+    color: #FFFFFF;
+    list-style-type: none;
+}
