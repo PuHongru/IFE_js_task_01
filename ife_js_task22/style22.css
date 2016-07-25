@@ -1,0 +1,41 @@
+.root{
+    display: flex;
+    width: 95%;
+    height: 500px;
+    margin: 50px auto;
+    border: 1px solid #E21519;
+}
+.child1{
+    display: flex;
+    width: 46.5%;
+    height: 460px;
+    border: 1px solid #000000;
+    justify-content: space-between;
+    margin: 20px;
+}
+.child2{
+    display: flex;
+    width: 45%;
+    height: 420px;
+    border: 1px solid #416599;
+    margin: 20px;
+    justify-content: space-between;
+}
+.child3{
+    display: flex;
+    width: 45%;
+    height: 380px;
+    border: 1px solid salmon;
+    margin: 20px;
+    justify-content: space-between;
+}
+.btns{
+    width: 95%;
+    margin: 0 auto;
+}
+button{
+    width: 150px;
+    height: 40px;
+    background-color: #5ec0b1;
+    color: #FFFFFF;
+}
